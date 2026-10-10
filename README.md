@@ -167,8 +167,8 @@ Mod 内置了原版 Buddycards 官方标准的材质与模型兜底。如果你�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/CustomCardsBuddycards.git
-cd CustomCardsBuddycards
+git clone https://github.com/ddaodan-minecraft/CustomCardsForBuddycards.git
+cd CustomCardsForBuddycards
 
 # 编译并生成 Jar (Windows)
 .\gradlew.bat build
