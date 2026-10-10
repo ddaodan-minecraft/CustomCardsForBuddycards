@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="ccb"
+version="${file.jarVersion}"
+displayName="Custom Cards for Buddycards"
+authors="ddaodan"
+description='''
+Custom Cards for Buddycards (CCB) is a powerful, data-driven addon for Buddycards.
+Allows easy addition of custom card sets via simple JSON configuration files and flexible KubeJS startup scripts.
+'''
+
+[[dependencies.ccb]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ccb]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ccb]]
+    modId="buddycards"
+    mandatory=false
+    versionRange="[1.20.1,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.ccb]]
+    modId="kubejs"
+    mandatory=false
+    versionRange="[2001.6.0,)"
+    ordering="AFTER"
+    side="BOTH"

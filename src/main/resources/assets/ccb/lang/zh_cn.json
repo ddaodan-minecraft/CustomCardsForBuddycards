@@ -1,0 +1,12 @@
+{
+  "itemGroup.ccb": "巴迪自定义卡牌 (CCB)",
+  "item.ccb.pack_title": "%s巴迪卡牌包",
+  "item.ccb.binder_title": "%s卡册",
+  "item.ccb.medal_title": "%s奖章",
+  "tooltip.ccb.pack_desc": "右键打开以获取 %s 张卡牌",
+  "tooltip.ccb.pack_guarantee": "包含保底非普通或更高品质卡牌",
+  "tooltip.ccb.binder_desc": "用于收纳 %s 的卡牌",
+  "tooltip.ccb.medal_desc": "收集齐 %s 的全部卡牌以解锁此奖章",
+  "tooltip.ccb.medal_effect": "效果: %s %s 级",
+  "message.ccb.medal_activated": "已激发 %s 奖章的力量！"
+}

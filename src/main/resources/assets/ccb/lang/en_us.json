@@ -1,0 +1,12 @@
+{
+  "itemGroup.ccb": "Custom Cards for Buddycards (CCB)",
+  "item.ccb.pack_title": "%s Buddycard Pack",
+  "item.ccb.binder_title": "%s Buddycard Binder",
+  "item.ccb.medal_title": "%s Medal",
+  "tooltip.ccb.pack_desc": "Right click to open and receive %s cards",
+  "tooltip.ccb.pack_guarantee": "Contains guaranteed uncommon or better card",
+  "tooltip.ccb.binder_desc": "Holds Buddycards from the %s",
+  "tooltip.ccb.medal_desc": "Reward medal for collecting all Buddycards in the %s",
+  "tooltip.ccb.medal_effect": "Effect: %s (Level %s)",
+  "message.ccb.medal_activated": "Activated power of %s Medal!"
+}

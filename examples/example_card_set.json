@@ -1,0 +1,57 @@
+{
+  "_comment": "Place this file in .minecraft/config/ccb/card_sets/your_set.json",
+  "id": "elemental_beasts",
+  "display_name": "元素异兽集",
+  "card_count": 4,
+  "required_mod": "",
+
+  "pack": {
+    "cards_per_pack": 3,
+    "guaranteed_uncommon": true,
+    "foil_chance": 0.08
+  },
+
+  "binder": {
+    "color": "#2E8B57",
+    "pages": 1
+  },
+
+  "medal": {
+    "effect": "minecraft:fire_resistance",
+    "effect_level": 1,
+    "duration": 12000
+  },
+
+  "cards": [
+    {
+      "number": 1,
+      "name": "烈焰幼犬",
+      "rarity": "common",
+      "description": "&c浑身燃烧着小火苗的小狗，\n&7常常在下界熔岩湖边玩耍。"
+    },
+    {
+      "number": 2,
+      "name": "冰霜雪貂",
+      "rarity": "common",
+      "description": [
+        "&b所过之处皆会留下薄冰，",
+        "&f极其警惕且动作敏捷的小生灵。"
+      ]
+    },
+    {
+      "number": 3,
+      "name": "雷霆天鹰",
+      "rarity": "uncommon",
+      "description": "&e盘旋在万米高空的雷云之中，\n&e双翼可掀起狂风与电弧！"
+    },
+    {
+      "number": 4,
+      "name": "&6大地岩龟",
+      "rarity": "epic",
+      "description": [
+        "&6背负着整座古老矿山的远古神龟。",
+        "&8据说它的沉睡已维系了数万年之久……"
+      ]
+    }
+  ]
+}
