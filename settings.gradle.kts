@@ -6,4 +6,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "BuddycardsExpansion"
+rootProject.name = "CustomCardsForBuddycards"
